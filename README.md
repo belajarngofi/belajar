@@ -1,11 +1,11 @@
 <!-- Centered header with animated wave -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=378ADD¢er=true&width=440&lines=Hi+I'm+Andi+%F0%9F%91%8B;Full-Stack+Developer;Open+Source+Enthusiast"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=378ADD¢er=true&width=440&lines=Hi+I'm+Belajar+Ngofi+%F0%9F%91%8B;Full-Stack+Developer;Open+Source+Enthusiast"
        alt="Typing SVG" />
 </div>
 
 <!-- Teks besar + sub -->
-# Hi there, I'm **Andi Pratama** 
+# Hi there, I'm **Belajar Ngofi** 
 
 > Full-Stack Developer · Open Source · Based in Indonesia
 >
